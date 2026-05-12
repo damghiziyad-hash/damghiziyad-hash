@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ziyad Damghi</h1>
+<h1 align="center">Hi 👋, I'm Ziyad Damgui</h1>
 <h3 align="center">Artificial Intelligence Student | Future Data Scientist | Machine Learning Enthusiast</h3>
 
 <p align="center">
