@@ -7,10 +7,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=damghiziyad-hash&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
-
 ---
 
 ## 🚀 About Me
